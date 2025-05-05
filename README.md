@@ -21,8 +21,12 @@ This repository includes experiments with:
 - **Dimensionality Reduction** using PCA.
 - **Deep Learning Models** including [Neural Networks (NN)](https://www.youtube.com/watch?v=CqOfi41LfDw) and [Convolutional Neural Networks (CNN)](https://www.youtube.com/watch?v=HGwBXDKFk9I) on image datasets.
 
+## Books & Resources:
+- As part of the curriculum the following book has been used (Primarily):
+   - [Hands-on Machine Learning with Python: Implement Neural Network Solutions with Scikit-learn and PyTorch](https://www.amazon.com/Hands-Machine-Learning-Python-Scikit-learn/dp/1484279204)
+
+- Not a part of the curriculum, but I also used the following book:
+  - [The StatQuest Illustrated Guide To Machine Learning ](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY/)
+
 ## Note:
 The repository description is in English, but all the tasks (Opgaver) are in Danish.
-
-
-
