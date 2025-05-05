@@ -3,6 +3,13 @@
 
 The repository is only created for the purpose of an exam in Deep Learning in the Bachelor of Software Development @ UCL Odense, Denmark.
 
+## Structure for Project Tasks
+Each project task has a unique name. The following naming convention has been used (I made it up):
+
+`TaskNums_TaskDescriptiveName`
+
+An example: 1-2_data-exploration.ipynb
+
 ## Datasets used:
 
 1. **Breast Cancer Dataset**  
@@ -25,7 +32,7 @@ This repository includes experiments with:
 - As part of the curriculum the following book has been used (Primarily):
    - [Hands-on Machine Learning with Python: Implement Neural Network Solutions with Scikit-learn and PyTorch](https://www.amazon.com/Hands-Machine-Learning-Python-Scikit-learn/dp/1484279204)
 
-- Not a part of the curriculum, but I also used the following book:
+- Not a part of the curriculum, but I also used the following book (and videos) from StatQuest:
   - [The StatQuest Illustrated Guide To Machine Learning ](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY/)
 
 ## Note:
